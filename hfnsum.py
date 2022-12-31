@@ -1,5 +1,5 @@
 import sys,math
 if __name__=='__main__':
-  u=str(4.58)+'qaxohewe'
-  r=6*math.sin(5)
+  u=str(5.38)+'heru'
+  r=2*math.sin(6)
   print(str(r)+u)
